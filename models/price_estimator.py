@@ -1,5 +1,3 @@
-# models/price_estimator.py
-
 import numpy as np
 from sklearn.linear_model import LinearRegression
 from database.db import Database

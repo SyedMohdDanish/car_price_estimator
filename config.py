@@ -12,4 +12,5 @@ DB_PASSWORD = os.getenv("DB_PASSWORD")
 DB_HOST = os.getenv("DB_HOST", "localhost")
 DB_PORT = os.getenv("DB_PORT", "5432")
 
+# File Path
 DATA_FILE_PATH = "NEWTEST-inventory-listing-2022-08-17.txt"

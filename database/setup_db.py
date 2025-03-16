@@ -1,5 +1,3 @@
-# database/setup_db.py
-
 import os
 import pandas as pd
 import psycopg2
