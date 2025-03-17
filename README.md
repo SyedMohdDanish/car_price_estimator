@@ -13,6 +13,9 @@ The market value estimation algorithm follows these steps:
    - Linear regression is used to estimate the drop of price when mileage is mentioned.
 4. **Result Display**: The estimated market value of car along with 100 sample listings is displayed to the user.
 
+## download data file 
+ - https://drive.google.com/file/d/1kh-eqtoktxQ8rSIVeZY0CM7l6WLxKA4w/view
+
 ## Database Schema
 The PostgreSQL database schema consists of the following tables:
 
